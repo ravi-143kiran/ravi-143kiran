@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ravikiran Rapolu</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-[![](https://visitcount.itsvg.in/api?id=ravi-143kiran&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=ravi-143kiran&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
 
